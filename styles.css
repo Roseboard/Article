@@ -1,0 +1,22 @@
+hr{
+    border: 1px solid red;
+}
+.navbar-brand{
+    padding-left: 300px;
+}
+.carousel-inner{
+    height: 700px;
+    background-color: rosybrown;
+}
+.row {
+    height: 500px;
+}
+.col{
+    background-color: black;
+}
+.col-6{
+    background-color: rgba(255, 0, 0, 0.799);
+}
+.col-3{
+    background-color: inherit;
+}
